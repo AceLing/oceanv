@@ -1,0 +1,20 @@
+{
+  "name": "oceanv",
+  "version": "1.0.0",
+  "description": "配合 ocean.js 的一个校验表单输入的模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ocean"
+  ],
+  "author": "atom",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "es2015": "0.0.0"
+  }
+}
